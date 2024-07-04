@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Andrezzzz421/Andrezzzz421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bienvenido a mi Repositorio
+
+¡Hola! Soy Andres, un desarrollador de software junior apasionado por la creación de soluciones tecnológicas innovadoras. Este repositorio es un espacio donde comparto mis proyectos y aprendizajes mientras navego por el emocionante mundo del desarrollo de software.
+
+## Languages and Technologies
+- 💻 Python, JavaScript, Java
+- 🌐 HTML, CSS
+- 🛠️ Git, VS Code
+- 🗃️ MySQL
+
+## Objetivos
+Mi objetivo es crecer como desarrollador, colaborar en proyectos interesantes y aprender de la comunidad. Estoy entusiasmado con las oportunidades que el mundo del desarrollo de software ofrece y comprometido a mejorar mis habilidades continuamente.
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
